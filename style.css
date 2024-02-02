@@ -5479,6 +5479,7 @@ html {
     text-transform: uppercase;
     font-size: 2.5rem;
     font-weight: 400;
+    padding: 25px;
   }
   
   .btn-text_small2.black {
@@ -5896,8 +5897,9 @@ html {
   .footer-heading {
     color: var(--off-white);
     text-align: center;
-    font-size: 10rem;
+    font-size: 5rem;
     line-height: .75;
+    font-weight: 800;
   }
   
   .descrip_wrap {
@@ -7338,8 +7340,8 @@ html {
   
   .nav-text {
     font-family: Bulevar, sans-serif;
-    font-size: 10rem;
-    line-height: .8;
+    font-size: 7rem;
+    line-height: .9;
   }
   
   .menu-link {
